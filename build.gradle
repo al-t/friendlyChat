@@ -19,6 +19,7 @@ buildscript {
 ext.support_version = "26.1.0"
 ext.glide_version = "3.7.0"
 ext.firebase_database = "11.8.0"
+ext.firebase_ui_auth = "3.2.1"
 
 allprojects {
     repositories {
